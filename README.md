@@ -1,8 +1,8 @@
-👋 Hi, I'm Jannatun
+👋 Hi, I'm **Jannatun**
 
 Innovation begins with curiosity.
 
-Welcome to jannatunlabs , my digital workspace where I explore ideas, build software, and continuously grow as an engineer.
+Welcome to **jannatunlabs** , my digital workspace where I explore ideas, build software, and continuously grow as an engineer.
 
 I'm a Software Engineering student with a passion for creating products that are not only functional but also intuitive, scalable, and impactful. My journey combines software development, user experience, intelligent automation, and software quality to build technology that solves real-world problems.
 
