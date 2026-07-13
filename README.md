@@ -16,12 +16,12 @@ I'm a Software Engineering student with a passion for creating products that are
 
 🌱 **Currently Learning**
 
-Artificial Intelligence & Automation
-Software Quality Assurance (SQA)
-Software Testing
-Project Management
-System Design
-Cloud & DevOps Fundamentals
+* Artificial Intelligence & Automation
+* Software Quality Assurance (SQA)
+* Software Testing
+* Project Management
+* System Design
+* Cloud & DevOps Fundamentals
 
 💡 **What I Believe**
 
